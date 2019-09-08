@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_4</name>
+   <tag></tag>
+   <elementGuidId>5e35bc5d-2a2a-476c-9618-3da5f9e81ab1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='allContents']/div/div[2]/div[3]/div/div[2]/div[3]/ul/li[6]/div[2]/div/div/h3/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Product__titleLink</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://page.auctions.yahoo.co.jp/jp/auction/415802635</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ylk</name>
+      <type>Main</type>
+      <value>rsec:aal;slk:tc;pos:1;atax:0;arbn:;catid:2084016698;cid:415802635;etc:p=400100,b=9,br=3,etm=1568803511,stm=1567565095,btm=1567672807,w=95,wtm=1567691600,we=3,wo=6,vsc=0.06589070000000002,vft=0.2258922148872679,vfc=0.2405928599111331,vnt=0.1109862337044292;sid:41027002nrober;st:1567565095;op:;grat:100.0;seltyp:0;best:</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>★トヨタ　ランドクルーザー　ＢＪ４１Ⅴ　ディーゼル　昭和５５年式　４速ＭＴ　4ＷＤ</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rapid_p</name>
+      <type>Main</type>
+      <value>221</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>★トヨタ　ランドクルーザー　ＢＪ４１Ⅴ　ディーゼル　昭和５５年式　４速ＭＴ　4ＷＤ</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;allContents&quot;)/div[@class=&quot;l-wrapper cf&quot;]/div[@class=&quot;l-contents&quot;]/div[@class=&quot;l-contentsBody&quot;]/div[@class=&quot;Result&quot;]/div[@class=&quot;Result__body&quot;]/div[@class=&quot;Products Products--list&quot;]/ul[@class=&quot;Products__items&quot;]/li[@class=&quot;Product&quot;]/div[@class=&quot;Product__detail&quot;]/div[@class=&quot;Product__infoTable&quot;]/div[@class=&quot;Product__infoCell Product__infoCell--left&quot;]/h3[@class=&quot;Product__title&quot;]/a[@class=&quot;Product__titleLink&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='allContents']/div/div[2]/div[3]/div/div[2]/div[3]/ul/li[6]/div[2]/div/div/h3/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'★トヨタ　ランドクルーザー　ＢＪ４１Ⅴ　ディーゼル　昭和５５年式　４速ＭＴ　4ＷＤ')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ランドクルーザー'])[2]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='トヨタ'])[1]/following::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='最低落札価格あり'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='出品者'])[5]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://page.auctions.yahoo.co.jp/jp/auction/415802635')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div[2]/div/div/h3/a</value>
+   </webElementXpaths>
+</WebElementEntity>
